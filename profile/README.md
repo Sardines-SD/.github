@@ -1,6 +1,6 @@
 # FixMyCity — Municipal Service Delivery Portal
 
-FixMyCity is a web-based municipal service delivery platform that enables residents to report, track, and escalate service delivery issues while helping municipal staff manage and resolve requests efficiently.
+FixMyCity is a web-based municipal service delivery platform that enables residents to report, track and escalate service delivery issues while helping municipal staff manage and resolve requests efficiently.
 
 ---
 
@@ -23,7 +23,7 @@ FixMyCity is a web-based municipal service delivery platform that enables reside
 
 ## About the Project
 
-FixMyCity was developed as part of a Software Design project focused on improving transparency, accountability, and communication between residents and municipalities regarding service delivery challenges.
+FixMyCity was developed as part of a Software Design project focused on improving transparency, accountability and communication between residents and municipalities regarding service delivery challenges.
 
 The platform allows residents to:
 - Submit municipal service delivery requests
